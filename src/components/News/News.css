@@ -1,0 +1,12 @@
+.newsCard{
+    text-align: left;
+    display: flex;
+}
+
+.cardImg{
+    width:30%;
+}
+.newsCard img{
+    width: 400px;
+    padding: 5px;
+}
